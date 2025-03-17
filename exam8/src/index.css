@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: azure;
+
+}
+
+.div{
+  width: 50%;
+  height: 300px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 10%;
+}
+
+.btn{
+  padding: 20px 200px;
+  border:  none;
+  background-color: #4f4fff;
+  border-radius: 30px;
+  color: white;
+}
+
+.inp{
+  background-color: white;
+  border: solid 1px ;
+  padding: 10px 50px;
+}
+
+h1{
+  background-color: white;
+}
