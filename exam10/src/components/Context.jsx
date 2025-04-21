@@ -1,6 +1,5 @@
-import React from 'react'
-import { createContext } from 'react'
+import { createContext } from 'react';
 
-const CardContext = createContext()
+const CardContext = createContext();
 
-export default CardContext
+export default CardContext;
