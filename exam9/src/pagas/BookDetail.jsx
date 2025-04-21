@@ -45,7 +45,6 @@ export default function BookDetail() {
                     <h3>{filteredData.title}</h3>
                     <h3>{filteredData.author}</h3>
                     <h3>{filteredData.description}</h3>
-                    
                 </div>
         
               
